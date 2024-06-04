@@ -8,7 +8,7 @@ const doc = {
     title: 'My API',
     description: 'Description'
   },
-  host: 'localhost:8080'
+  host: 'counterstrikeapi.onrender.com'
 };
 
 
