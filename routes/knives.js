@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const { knifeModel, validateKnife } = require("../models/Knife");
+const { knifeModel, validateKnife } = require("../models/knife");
 const getKnife = require("../middleware/getKnife");
 
 
