@@ -1,0 +1,10 @@
+{
+    "port": 8080,
+    "db": {
+        "host": "localhost",
+        "port": 27017,
+        "name": "CounterStrikeDB"
+    },
+    "connectionString" : "mongodb+srv://thijsgeeraert:IcAz6KkHZyl6Hm5U@counterstrikedbcluster.m9bfjgu.mongodb.net/CounterStrikeDB",
+    "jwtPrivateKey": "counterstrikeapikey789456123"
+}

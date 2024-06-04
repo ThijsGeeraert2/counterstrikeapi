@@ -1,0 +1,29 @@
+{
+  "name": "ti-eind-assignment-2324-project-thijsgeeraert2",
+  "version": "1.0.0",
+  "description": "[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/5ykzvLV4)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "swagger": "node ./swagger.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "config": "^3.3.11",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "joi": "^17.13.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.0",
+    "swagger": "^0.7.5",
+    "swagger-autogen": "^2.23.7",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
